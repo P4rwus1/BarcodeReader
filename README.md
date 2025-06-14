@@ -87,7 +87,7 @@ barkod-okuyucu/
 5. Telefon, bilgisayara tarayıcıdan şu adrese ulaşabilmeli:
 
    ```
-   http://192.168.x.x/barkod_app/get_product.php?barcode=1234567890123
+   http://192.168.x.x/barkod_app/get_product.php?barcode=1234567890124
    ```
 
 ---
