@@ -1,8 +1,11 @@
 #  Barkod Okuyucu - Bitirme Projesi
 
 ** Ad:** Kadir Belen
+
 ** Okul:** İskenderun Teknik Üniversitesi
+
 ** Bölüm:** Bilgisayar Mühendisliği
+
 ** Öğrenci No:** 202523064
 
 ---
