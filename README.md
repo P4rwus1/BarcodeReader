@@ -75,7 +75,7 @@ barkod-okuyucu/
 5. Tarayıcıdan test için:
 
    ```
-   http://localhost/barkod_app/get_product.php?barcode=1234567890123
+   http://localhost/barkod_app/get_product.php?barcode=1234567890124
    ```
 
 ###  Telefonda Çalıştırmak
